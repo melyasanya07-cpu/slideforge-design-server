@@ -1,0 +1,9 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pptx
+*.potx
+*.zip
+.venv
+tests/output
